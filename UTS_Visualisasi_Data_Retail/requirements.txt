@@ -1,33 +1,3 @@
-UTS_Visualisasi_Data_Retail/
-├── app.py
-├── requirements.txt
-├── README.md
-├── dataset/
-│   └── supermarket_sales.csv
-├── notebooks/
-│   └── data_analysis.ipynb
-├── preprocessing/
-│   └── data_cleaning.py
-└── assets/
-
-### 2. Review `requirements.txt` (Sudah Bagus)
-File `requirements.txt` Anda sudah sangat baik karena menggunakan versi minimal (`>=`). Ini membuat proses *deployment* nanti lebih lancar. Tidak perlu diubah lagi.
-
----
-
-### 🎯 Langkah Selanjutnya (Menuju Live Dashboard)
-Setelah `README.md` diperbarui dan disimpan, tugas Anda selanjutnya adalah **Publikasi**. Ini syarat mutlak dari dosen (nilai 15% untuk dokumentasi dan deployment).
-
-1. **Buat Repositori GitHub:** 
-   - Buka GitHub, buat repository baru bernama `UTS_Visualisasi_Data_Retail`.
-   - **PENTING:** Pastikan statusnya diset ke **Public**.
-   - Upload semua file proyek Anda (`app.py`, folder `dataset` yang berisi CSV, `README.md`, `requirements.txt`, dll).
-2. **Deploy ke Streamlit Community Cloud:**
-   - Buka [share.streamlit.io](https://share.streamlit.io/) dan login dengan akun GitHub Anda.
-   - Klik **New App**, pilih repositori yang baru Anda buat.
-   - Klik **Deploy**.
-   - Tunggu beberapa menit sampai dashboard Anda *live*.
-3. **Update README:** Setelah dapat link *live* dari Streamlit Cloud, buka lagi `README.md` di GitHub, lalu isi bagian **Live Dashboard** dengan link tersebut. (Bisa diedit langsung lewat web GitHub).
-4. **Kumpulkan:** Salin link repositori GitHub Anda (contoh: `https://github.com/ranti/UTS_Visualisasi_Data_Retail`) dan kumpulkan ke LMS kampus.
-
-Anda sudah menyelesaikan bagian tersulit (coding). Sekarang tinggal proses *upload* dan *deploy* saja. Pasti bisa!
+streamlit
+pandas
+plotly
